@@ -12,7 +12,9 @@ A simple reaction time game inspired by Formula 1 racing start lights. This app 
 
 ## Demo
 
-![Game Demo](previews/game-demo.gif)
+<p align="center">
+  <img src="previews/game-demo.gif" alt="Game Demo" width="300"/>
+</p>
 
 ## How to Play
 
@@ -31,23 +33,41 @@ This app is built using the MVVM (Model-View-ViewModel) architecture:
 
 ## Installation
 
-1. Clone the repository:
+1. Fork the repository first.
+
+2. Clone the repository:
    ```bash
    git clone https://github.com/your-username/F1-Reaction-Time-Game.git
    cd F1-Reaction-Time-Game
    ```
 
-2. Open the project in Xcode:
+3. Open the project in Xcode:
    ```bash
    open F1-Reaction-Time-Game.xcodeproj
    ```
 
-3. Build and run the project on an iOS Simulator or device.
+4. Build and run the project on an iOS Simulator or device.
 
 ## Requirements
 
 - Xcode 12 or later
 - iOS 15 or later
+
+## Future Work
+
+Planned enhancements for the project include adding a **Leaderboard** feature to track and display top reaction times, making the game more competitive and engaging. This feature will allow users to compare their reaction times with others and aim for the top spot.
+
+**Collaboration is highly encouraged**! If you're interested in contributing to this or other features, feel free to fork the repository, make improvements, and open a pull request.
+
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature/leaderboard`).
+3. Make your changes and commit (`git commit -m "Add leaderboard feature"`).
+4. Push to the branch (`git push origin feature/leaderboard`).
+5. Open a pull request for review.
+
+We welcome contributions to make this project better!
 
 ## License
 
