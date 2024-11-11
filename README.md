@@ -10,13 +10,9 @@ A simple reaction time game inspired by Formula 1 racing start lights. This app 
 - **Jump Start Detection**: Detects early taps and shows a "Jump Start" message, encouraging the user to try again.
 - **Clean UI**: Minimalist design with a full-width tappable button.
 
-## Screenshots
+## Demo
 
-| Initial State              | Countdown in Progress             | Reaction Time Displayed             |
-|----------------------------|-----------------------------------|-------------------------------------|
-| ![Initial State](path/to/screenshot1.png) | ![Countdown](path/to/screenshot2.png) | ![Reaction Time](path/to/screenshot3.png) |
-
-Replace `path/to/screenshot1.png`, `path/to/screenshot2.png`, and `path/to/screenshot3.png` with the actual file paths of your screenshots.
+![Game Demo](previews/game-demo.mp4)
 
 ## How to Play
 
