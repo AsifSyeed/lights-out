@@ -12,7 +12,7 @@ A simple reaction time game inspired by Formula 1 racing start lights. This app 
 
 ## Demo
 
-![Game Demo](previews/game-demo.mp4)
+![Game Demo](previews/game-demo.gif)
 
 ## How to Play
 
