@@ -31,22 +31,47 @@ This app is built using the MVVM (Model-View-ViewModel) architecture:
 - **ViewModel** (`ReactionTimeGameViewModel`): Manages game state, countdown logic, and reaction time measurement.
 - **Model**: Basic state management handled within the ViewModel for simplicity.
 
-## Installation
+## Installation & Contributing
 
-1. Fork the repository first.
+### Getting Started
 
-2. Clone the repository:
+1. **Fork the Repository**: Click the "Fork" button at the top right of this page to create a copy of this repository under your GitHub account.
+
+2. **Clone Your Forked Repository**:
    ```bash
    git clone https://github.com/your-username/F1-Reaction-Time-Game.git
    cd F1-Reaction-Time-Game
    ```
 
-3. Open the project in Xcode:
+3. **Open the Project in Xcode**:
    ```bash
    open F1-Reaction-Time-Game.xcodeproj
    ```
 
-4. Build and run the project on an iOS Simulator or device.
+4. **Build and Run**: Build and run the project on an iOS Simulator or device.
+
+### Contributing
+
+We're planning to add a **Leaderboard** feature, allowing users to compete and compare reaction times. Collaboration is highly encouraged!
+
+1. Create a new branch for your feature:
+   ```bash
+   git checkout -b feature/leaderboard
+   ```
+
+2. Make your changes and commit:
+   ```bash
+   git commit -m "Add leaderboard feature"
+   ```
+
+3. Push to your branch:
+   ```bash
+   git push origin feature/leaderboard
+   ```
+
+4. Open a pull request for review.
+
+We welcome contributions to make this project better!
 
 ## Requirements
 
@@ -58,16 +83,6 @@ This app is built using the MVVM (Model-View-ViewModel) architecture:
 Planned enhancements for the project include adding a **Leaderboard** feature to track and display top reaction times, making the game more competitive and engaging. This feature will allow users to compare their reaction times with others and aim for the top spot.
 
 **Collaboration is highly encouraged**! If you're interested in contributing to this or other features, feel free to fork the repository, make improvements, and open a pull request.
-
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/leaderboard`).
-3. Make your changes and commit (`git commit -m "Add leaderboard feature"`).
-4. Push to the branch (`git push origin feature/leaderboard`).
-5. Open a pull request for review.
-
-We welcome contributions to make this project better!
 
 ## License
 
